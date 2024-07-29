@@ -1,0 +1,25 @@
+# Clone the repository
+git clone https://github.com/eventually11/temp2.git
+cd temp2
+
+# Pull the latest code
+git pull origin main
+
+# Push code (Need token)
+git remote set-url origin https://token@github.com/eventually11/temp2
+git push origin main
+
+# Create and switch branch
+git branch
+git branch Ferry
+
+# Work on the master (main) branch
+git add .
+git commit -m "change"
+git checkout master
+
+# Merge branch to master (main)
+git merge feature-branch
+
+# Make changes
+echo "new change" >> README.md

@@ -1,0 +1,13 @@
+Clone the Repository: Start by cloning the repository from GitHub and navigate into the repository directory.
+
+Pull the Latest Code: Fetch the latest changes from the main branch to ensure the local repository is up-to-date.
+
+Push Code: Update the remote repository URL to include a token for authentication and push changes to the main branch.
+
+Create and Switch Branch: List existing branches, create a new branch named "Ferr", and switch to it.
+
+Work on the Main Branch: Stage all changes, commit them with a message, and switch back to the main branch.
+
+Merge Branch to Main: Merge changes from the feature branch into the main branch.
+
+Make Changes: Append a new change to the README.md file.
