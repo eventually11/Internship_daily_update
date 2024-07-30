@@ -23,3 +23,8 @@ git merge feature-branch
 
 # Make changes
 echo "new change" >> README.md
+
+git add .
+git commit -m "change"
+git merge Ferry
+git push origin main
