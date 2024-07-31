@@ -1,0 +1,211 @@
+field,test_type,result
+order_id,integer,pass
+tenant,integer,pass
+flow,integer,pass
+sender,string,pass
+hub,string,pass
+dispatch_pool,integer,pass
+vehicle_type,list of strings,fail
+start_time,datetime or None,pass
+end_time,datetime or None,pass
+title,string,pass
+route_description,string,pass
+tags,string or None,pass
+overview,string,pass
+content,string,pass
+type,"dictionary with code, type_name, and name",fail
+start,string or None,pass
+end,string or None,pass
+service_fee,float or None,pass
+start_task_validation,string,pass
+end_task_validation,string,pass
+status_group,integer,pass
+order_id,integer,pass
+tenant,integer,pass
+flow,integer,pass
+sender,string,pass
+hub,string,pass
+dispatch_pool,integer,pass
+vehicle_type,list of strings,fail
+start_time,datetime or None,pass
+end_time,datetime or None,pass
+title,string,pass
+route_description,string,pass
+tags,string or None,pass
+overview,string,pass
+content,string,pass
+type,"dictionary with code, type_name, and name",fail
+start,string or None,pass
+end,string or None,pass
+service_fee,float or None,pass
+start_task_validation,string,pass
+end_task_validation,string,pass
+status_group,integer,pass
+order_id,integer,pass
+tenant,integer,pass
+flow,integer,pass
+sender,string,pass
+hub,string,pass
+dispatch_pool,integer,pass
+vehicle_type,list of strings,fail
+start_time,datetime or None,pass
+end_time,datetime or None,pass
+title,string,pass
+route_description,string,pass
+tags,string or None,pass
+overview,string,pass
+content,string,pass
+type,"dictionary with code, type_name, and name",fail
+start,string or None,pass
+end,string or None,pass
+service_fee,float or None,pass
+start_task_validation,string,pass
+end_task_validation,string,pass
+status_group,integer,pass
+order_id,integer,pass
+tenant,integer,pass
+flow,integer,pass
+sender,string,pass
+hub,string,pass
+dispatch_pool,integer,pass
+vehicle_type,list of strings,fail
+start_time,datetime or None,pass
+end_time,datetime or None,pass
+title,string,pass
+route_description,string,pass
+tags,string or None,pass
+overview,string,pass
+content,string,pass
+type,"dictionary with code, type_name, and name",fail
+start,string or None,pass
+end,string or None,pass
+service_fee,float or None,pass
+start_task_validation,string,pass
+end_task_validation,string,pass
+status_group,integer,pass
+order_id,integer,pass
+tenant,integer,pass
+flow,integer,pass
+sender,string,pass
+hub,string,pass
+dispatch_pool,integer,pass
+vehicle_type,list of strings,fail
+start_time,datetime or None,pass
+end_time,datetime or None,pass
+title,string,pass
+route_description,string,pass
+tags,string or None,pass
+overview,string,pass
+content,string,pass
+type,"dictionary with code, type_name, and name",fail
+start,string or None,pass
+end,string or None,pass
+service_fee,float or None,pass
+start_task_validation,string,pass
+end_task_validation,string,pass
+status_group,integer,pass
+order_id,integer,pass
+tenant,integer,pass
+flow,integer,pass
+sender,string,pass
+hub,string,pass
+dispatch_pool,integer,pass
+vehicle_type,list of strings,fail
+start_time,datetime or None,pass
+end_time,datetime or None,pass
+title,string,pass
+route_description,string,pass
+tags,string or None,pass
+overview,string,pass
+content,string,pass
+type,"dictionary with code, type_name, and name",fail
+start,string or None,pass
+end,string or None,pass
+service_fee,float or None,pass
+start_task_validation,string,pass
+end_task_validation,string,pass
+status_group,integer,pass
+order_id,integer,pass
+tenant,integer,pass
+flow,integer,pass
+sender,string,pass
+hub,string,pass
+dispatch_pool,integer,pass
+vehicle_type,list of strings,fail
+start_time,datetime or None,pass
+end_time,datetime or None,pass
+title,string,pass
+route_description,string,pass
+tags,string or None,pass
+overview,string,pass
+content,string,pass
+type,"dictionary with code, type_name, and name",fail
+start,string or None,pass
+end,string or None,pass
+service_fee,float or None,pass
+start_task_validation,string,pass
+end_task_validation,string,pass
+status_group,integer,pass
+order_id,integer,pass
+tenant,integer,pass
+flow,integer,pass
+sender,string,pass
+hub,string,pass
+dispatch_pool,integer,pass
+vehicle_type,list of strings,fail
+start_time,datetime or None,pass
+end_time,datetime or None,pass
+title,string,pass
+route_description,string,pass
+tags,string or None,pass
+overview,string,pass
+content,string,pass
+type,"dictionary with code, type_name, and name",fail
+start,string or None,pass
+end,string or None,pass
+service_fee,float or None,pass
+start_task_validation,string,pass
+end_task_validation,string,pass
+status_group,integer,pass
+order_id,integer,pass
+tenant,integer,pass
+flow,integer,pass
+sender,string,pass
+hub,string,pass
+dispatch_pool,integer,pass
+vehicle_type,list of strings,fail
+start_time,datetime or None,pass
+end_time,datetime or None,pass
+title,string,pass
+route_description,string,pass
+tags,string or None,pass
+overview,string,pass
+content,string,pass
+type,"dictionary with code, type_name, and name",fail
+start,string or None,pass
+end,string or None,pass
+service_fee,float or None,pass
+start_task_validation,string,pass
+end_task_validation,string,pass
+status_group,integer,pass
+order_id,integer,pass
+tenant,integer,pass
+flow,integer,pass
+sender,string,pass
+hub,string,pass
+dispatch_pool,integer,pass
+vehicle_type,list of strings,fail
+start_time,datetime or None,pass
+end_time,datetime or None,pass
+title,string,pass
+route_description,string,pass
+tags,string or None,pass
+overview,string,pass
+content,string,pass
+type,"dictionary with code, type_name, and name",fail
+start,string or None,pass
+end,string or None,pass
+service_fee,float or None,pass
+start_task_validation,string,pass
+end_task_validation,string,pass
+status_group,integer,pass

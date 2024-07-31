@@ -1,0 +1,4 @@
+field,test_type,result
+code,integer in range 1000-9999,pass
+type_name,non-empty string,pass
+name,non-empty string,pass
