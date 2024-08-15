@@ -17,3 +17,10 @@ Negotiable in case of emergency.
 
 Suggestion: We could start new projects before Thursday, and clear the details before Friday.
 I will finalize the projects before Monday so that we can discuss and review them. 
+
+# Related project
+https://github.com/eventually11/MockOrderDataGenerator 
+
+https://github.com/eventually11/MockOrderDataStructured
+
+https://github.com/eventually11/MockOrderDataImporter   
